@@ -1,0 +1,397 @@
+Province,Year,GDP
+Bali,2000,17268228.46
+Bali,2001,20190206.38
+Bali,2002,23856437.95
+Bali,2003,26167941.92
+Bali,2004,28986595.66
+Bali,2005,33946467.53
+Bali,2006,37388484.9
+Bali,2007,42336424.4
+Bali,2008,49922604.45
+Bali,2009,57579254.27
+Bali,2010,64567004.85
+Bali,2011,74029156.25
+Banten,2000,45690559.04
+Banten,2001,52643097.41
+Banten,2002,60612554.33
+Banten,2003,66575296.75
+Banten,2004,73713784.4
+Banten,2005,84622803.32
+Banten,2006,97867273.39
+Banten,2007,107499652.4
+Banten,2008,122490654.3
+Banten,2009,133048007.1
+Banten,2010,148976218.9
+Banten,2011,192227500
+Bengkulu,2000,4868099
+Bengkulu,2001,5508255.29
+Bengkulu,2002,6276077.18
+Bengkulu,2003,7251984.57
+Bengkulu,2004,8104893.79
+Bengkulu,2005,10134450.54
+Bengkulu,2006,11397004.21
+Bengkulu,2007,12820320.84
+Bengkulu,2008,14915886.85
+Bengkulu,2009,15920849.25
+Bengkulu,2010,18036964.48
+Bengkulu,2011,21269197.27
+DI Yogyakarta,2000,13480598.42
+DI Yogyakarta,2001,15228674.82
+DI Yogyakarta,2002,17521778.26
+DI Yogyakarta,2003,19613418.2
+DI Yogyakarta,2004,22023880.34
+DI Yogyakarta,2005,25337603.43
+DI Yogyakarta,2006,29417348.99
+DI Yogyakarta,2007,32916736.41
+DI Yogyakarta,2008,38101684.5
+DI Yogyakarta,2009,41407049.5
+DI Yogyakarta,2010,45625589.5
+DI Yogyakarta,2011,51782093.75
+DKI Jakarta,2000,226573455.1
+DKI Jakarta,2001,262326835.4
+DKI Jakarta,2002,298806792.2
+DKI Jakarta,2003,333260777.3
+DKI Jakarta,2004,374200318.4
+DKI Jakarta,2005,431900923.8
+DKI Jakarta,2006,499354112.1
+DKI Jakarta,2007,563813267
+DKI Jakarta,2008,673865997.2
+DKI Jakarta,2009,754540833.4
+DKI Jakarta,2010,858454629.4
+DKI Jakarta,2011,977587062.5
+Gorontalo,2000,1473274.72
+Gorontalo,2001,1822824.3
+Gorontalo,2002,2148436.09
+Gorontalo,2003,2479719.69
+Gorontalo,2004,2801544.32
+Gorontalo,2005,3480566.61
+Gorontalo,2006,4062284.96
+Gorontalo,2007,4760695.43
+Gorontalo,2008,5906736.28
+Gorontalo,2009,7069054.18
+Gorontalo,2010,8056512.92
+Gorontalo,2011,9153668.95
+Jambi,2000,8431224.02
+Jambi,2001,9711073.84
+Jambi,2002,11513583.86
+Jambi,2003,13452425.4
+Jambi,2004,15666192.29
+Jambi,2005,18403955.76
+Jambi,2006,22080155.35
+Jambi,2007,26193640.61
+Jambi,2008,31271223.98
+Jambi,2009,36755123.42
+Jambi,2010,45092786.15
+Jambi,2011,52609343.75
+Jawa Barat,2000,184965508.4
+Jawa Barat,2001,208031513.5
+Jawa Barat,2002,230943495.6
+Jawa Barat,2003,264355239.5
+Jawa Barat,2004,292328155.5
+Jawa Barat,2005,370693823.2
+Jawa Barat,2006,448250513.5
+Jawa Barat,2007,501445228.7
+Jawa Barat,2008,596917065.7
+Jawa Barat,2009,658040583.6
+Jawa Barat,2010,737657049.8
+Jawa Barat,2011,824061937.5
+Jawa Tengah,2000,108567502.7
+Jawa Tengah,2001,124388760.8
+Jawa Tengah,2002,139053208.2
+Jawa Tengah,2003,156155729.3
+Jawa Tengah,2004,175584778.8
+Jawa Tengah,2005,203097766.2
+Jawa Tengah,2006,243041663.9
+Jawa Tengah,2007,272614733.5
+Jawa Tengah,2008,315546001.6
+Jawa Tengah,2009,347231350.4
+Jawa Tengah,2010,390587912.9
+Jawa Tengah,2011,441216156.3
+Jawa Timur,2000,202008645.1
+Jawa Timur,2001,233262132.4
+Jawa Timur,2002,266557636.6
+Jawa Timur,2003,299951720
+Jawa Timur,2004,340326617.4
+Jawa Timur,2005,402497604.5
+Jawa Timur,2006,469503984.5
+Jawa Timur,2007,533367054.4
+Jawa Timur,2008,619530631.6
+Jawa Timur,2009,684479039.1
+Jawa Timur,2010,775192632.1
+Jawa Timur,2011,880433875
+Kalimantan Barat,2000,19378784.73
+Kalimantan Barat,2001,21359186.93
+Kalimantan Barat,2002,23914130.78
+Kalimantan Barat,2003,26062747.16
+Kalimantan Barat,2004,29750226.18
+Kalimantan Barat,2005,33869468.05
+Kalimantan Barat,2006,37714996.83
+Kalimantan Barat,2007,42478600.88
+Kalimantan Barat,2008,49132965.97
+Kalimantan Barat,2009,54234103.52
+Kalimantan Barat,2010,60475251.81
+Kalimantan Barat,2011,66913476.56
+Kalimantan Selatan,2000,18096202.44
+Kalimantan Selatan,2001,20235720.14
+Kalimantan Selatan,2002,22348961.72
+Kalimantan Selatan,2003,24913843.62
+Kalimantan Selatan,2004,27518034.48
+Kalimantan Selatan,2005,31282872.29
+Kalimantan Selatan,2006,34142299.38
+Kalimantan Selatan,2007,38852763.34
+Kalimantan Selatan,2008,45204761.22
+Kalimantan Selatan,2009,50813676.09
+Kalimantan Selatan,2010,57862527.03
+Kalimantan Selatan,2011,67481898.44
+Kalimantan Tengah,2000,11039677.63
+Kalimantan Tengah,2001,12436868.59
+Kalimantan Tengah,2002,14162647.05
+Kalimantan Tengah,2003,15705030.28
+Kalimantan Tengah,2004,18299981.57
+Kalimantan Tengah,2005,20983169.93
+Kalimantan Tengah,2006,24480038.35
+Kalimantan Tengah,2007,27920072.34
+Kalimantan Tengah,2008,32760167.75
+Kalimantan Tengah,2009,37114185.67
+Kalimantan Tengah,2010,42567204.79
+Kalimantan Tengah,2011,49047539.06
+Kalimantan Timur,2000,30220959.71
+Kalimantan Timur,2001,35911341.37
+Kalimantan Timur,2002,41265225.66
+Kalimantan Timur,2003,46250605.05
+Kalimantan Timur,2004,53606656.52
+Kalimantan Timur,2005,68106493.15
+Kalimantan Timur,2006,82234413.34
+Kalimantan Timur,2007,93810267.5
+Kalimantan Timur,2008,134228023.9
+Kalimantan Timur,2009,154100949.6
+Kalimantan Timur,2010,187875487.2
+Kalimantan Timur,2011,241415562.5
+Kepulauan Bangka-Belitung,2000,6451089.38
+Kepulauan Bangka-Belitung,2001,7513977.01
+Kepulauan Bangka-Belitung,2002,8600835.53
+Kepulauan Bangka-Belitung,2003,9737771.45
+Kepulauan Bangka-Belitung,2004,11294211.3
+Kepulauan Bangka-Belitung,2005,13535453.92
+Kepulauan Bangka-Belitung,2006,15299646.7
+Kepulauan Bangka-Belitung,2007,17369399.15
+Kepulauan Bangka-Belitung,2008,20846415.86
+Kepulauan Bangka-Belitung,2009,22418816.61
+Kepulauan Bangka-Belitung,2010,25083739.21
+Kepulauan Bangka-Belitung,2011,29778687.5
+Kepulauan Riau,2000,20373895.63
+Kepulauan Riau,2001,24304865.79
+Kepulauan Riau,2002,27064141.58
+Kepulauan Riau,2003,30483327.84
+Kepulauan Riau,2004,33614229.72
+Kepulauan Riau,2005,37414643.2
+Kepulauan Riau,2006,41950512.95
+Kepulauan Riau,2007,47420368.7
+Kepulauan Riau,2008,53841673.87
+Kepulauan Riau,2009,59061742.91
+Kepulauan Riau,2010,66504856.51
+Kepulauan Riau,2011,75007343.75
+Lampung,2000,22915441.85
+Lampung,2001,25378400.34
+Lampung,2002,28241856.6
+Lampung,2003,31290011.07
+Lampung,2004,34872456.84
+Lampung,2005,39407272.49
+Lampung,2006,47706379.38
+Lampung,2007,59485485.51
+Lampung,2008,72260509.28
+Lampung,2009,86856943.07
+Lampung,2010,106038192
+Lampung,2011,126436742.2
+Maluku Utara,2000,1879628.31
+Maluku Utara,2001,1952866.62
+Maluku Utara,2002,2035155.51
+Maluku Utara,2003,2175010.27
+Maluku Utara,2004,2368865.47
+Maluku Utara,2005,2583101.46
+Maluku Utara,2006,2818416.83
+Maluku Utara,2007,3160041.71
+Maluku Utara,2008,3862243.13
+Maluku Utara,2009,4690567.72
+Maluku Utara,2010,5387443.93
+Maluku Utara,2011,6038669.92
+Maluku,2000,2756717.88
+Maluku,2001,2991578.8
+Maluku,2002,3448436.71
+Maluku,2003,3670949.52
+Maluku,2004,4030010.63
+Maluku,2005,4551496.15
+Maluku,2006,5059637.11
+Maluku,2007,5682667.38
+Maluku,2008,6251887.42
+Maluku,2009,7049318.82
+Maluku,2010,8064484.11
+Maluku,2011,9570822.27
+Nanggroe Aceh Darussalam,2000,19626691.47
+Nanggroe Aceh Darussalam,2001,21230620.42
+Nanggroe Aceh Darussalam,2002,24488662.9
+Nanggroe Aceh Darussalam,2003,27011582.29
+Nanggroe Aceh Darussalam,2004,30149761.23
+Nanggroe Aceh Darussalam,2005,35449322
+Nanggroe Aceh Darussalam,2006,43465767.47
+Nanggroe Aceh Darussalam,2007,49718173.08
+Nanggroe Aceh Darussalam,2008,54209880.05
+Nanggroe Aceh Darussalam,2009,58615372.34
+Nanggroe Aceh Darussalam,2010,64609717.54
+Nanggroe Aceh Darussalam,2011,71657718.75
+Nusa Tenggara Barat,2000,12192583.88
+Nusa Tenggara Barat,2001,15238256.74
+Nusa Tenggara Barat,2002,16294608.31
+Nusa Tenggara Barat,2003,17499604.38
+Nusa Tenggara Barat,2004,22145674.45
+Nusa Tenggara Barat,2005,25682674.61
+Nusa Tenggara Barat,2006,28596881.52
+Nusa Tenggara Barat,2007,33522225.01
+Nusa Tenggara Barat,2008,35314731.04
+Nusa Tenggara Barat,2009,43985030.56
+Nusa Tenggara Barat,2010,49362706.42
+Nusa Tenggara Barat,2011,48729105.47
+Nusa Tenggara Timur,2000,7850624.28
+Nusa Tenggara Timur,2001,9138301.25
+Nusa Tenggara Timur,2002,10274236.49
+Nusa Tenggara Timur,2003,11473204.46
+Nusa Tenggara Timur,2004,13004160.01
+Nusa Tenggara Timur,2005,14810472.1
+Nusa Tenggara Timur,2006,16904073.23
+Nusa Tenggara Timur,2007,19136982.17
+Nusa Tenggara Timur,2008,21655869.37
+Nusa Tenggara Timur,2009,24179412.16
+Nusa Tenggara Timur,2010,27711246.07
+Nusa Tenggara Timur,2011,31221527.34
+Papua Barat,2000,2817147.45
+Papua Barat,2001,3183903.2
+Papua Barat,2002,3617835.07
+Papua Barat,2003,4137795.13
+Papua Barat,2004,4669431.03
+Papua Barat,2005,5427856.04
+Papua Barat,2006,6367572.45
+Papua Barat,2007,7452203.55
+Papua Barat,2008,9778948.46
+Papua Barat,2009,12031519.15
+Papua Barat,2010,13696928.73
+Papua Barat,2011,16575623.05
+Papua,2000,18409760.84
+Papua,2001,21590317.72
+Papua,2002,22548296.24
+Papua,2003,23890084.29
+Papua,2004,24842903.74
+Papua,2005,43615319.21
+Papua,2006,46895228.88
+Papua,2007,55380453.41
+Papua,2008,61516238.47
+Papua,2009,77728564.53
+Papua,2010,89451248.76
+Papua,2011,76559101.56
+Riau,2000,22455860.22
+Riau,2001,31879728.9
+Riau,2002,40588936.89
+Riau,2003,51799212.07
+Riau,2004,64527875.21
+Riau,2005,79065371.46
+Riau,2006,94815601.47
+Riau,2007,117034983.7
+Riau,2008,149125242.2
+Riau,2009,179037322.6
+Riau,2010,214552690.5
+Riau,2011,253385328.1
+Sulawesi Barat,2000,2493140.52
+Sulawesi Barat,2001,2825850.19
+Sulawesi Barat,2002,3166740.11
+Sulawesi Barat,2003,3394155.66
+Sulawesi Barat,2004,3835712.61
+Sulawesi Barat,2005,4422946.41
+Sulawesi Barat,2006,5124812.71
+Sulawesi Barat,2007,6192785.57
+Sulawesi Barat,2008,8296605.6
+Sulawesi Barat,2009,9403378.61
+Sulawesi Barat,2010,10986624.75
+Sulawesi Barat,2011,12883949.22
+Sulawesi Selatan,2000,28192718.24
+Sulawesi Selatan,2001,31864070.76
+Sulawesi Selatan,2002,35267406.91
+Sulawesi Selatan,2003,39335319.94
+Sulawesi Selatan,2004,44659949.93
+Sulawesi Selatan,2005,51650599.26
+Sulawesi Selatan,2006,60756420.07
+Sulawesi Selatan,2007,69107119.49
+Sulawesi Selatan,2008,84966308.76
+Sulawesi Selatan,2009,99757707.25
+Sulawesi Selatan,2010,117612050.9
+Sulawesi Selatan,2011,137146156.3
+Sulawesi Tengah,2000,8649205.62
+Sulawesi Tengah,2001,10380274.64
+Sulawesi Tengah,2002,11793832.81
+Sulawesi Tengah,2003,13023148.46
+Sulawesi Tengah,2004,14659017
+Sulawesi Tengah,2005,17053327.01
+Sulawesi Tengah,2006,19068270.75
+Sulawesi Tengah,2007,22294059.51
+Sulawesi Tengah,2008,27495423.79
+Sulawesi Tengah,2009,31120444.03
+Sulawesi Tengah,2010,35373546
+Sulawesi Tengah,2011,43366062.5
+Sulawesi Tenggara,2000,5774652.61
+Sulawesi Tenggara,2001,6864339.77
+Sulawesi Tenggara,2002,8043485.24
+Sulawesi Tenggara,2003,8908781.22
+Sulawesi Tenggara,2004,10267955.37
+Sulawesi Tenggara,2005,12981046.47
+Sulawesi Tenggara,2006,15270350.75
+Sulawesi Tenggara,2007,17953074.41
+Sulawesi Tenggara,2008,22202848.01
+Sulawesi Tenggara,2009,25655940.7
+Sulawesi Tenggara,2010,28369052.73
+Sulawesi Tenggara,2011,32032498.05
+Sulawesi Utara,2000,68086174.27
+Sulawesi Utara,2001,78437128.28
+Sulawesi Utara,2002,88868564.18
+Sulawesi Utara,2003,102580911
+Sulawesi Utara,2004,117241670.7
+Sulawesi Utara,2005,138556296.7
+Sulawesi Utara,2006,159187945.3
+Sulawesi Utara,2007,180375387.5
+Sulawesi Utara,2008,212145469.9
+Sulawesi Utara,2009,234473453.8
+Sulawesi Utara,2010,273537053.4
+Sulawesi Utara,2011,312008093.8
+Sumatera Barat,2000,22889614.05
+Sumatera Barat,2001,26154134.82
+Sumatera Barat,2002,29899129.81
+Sumatera Barat,2003,33130682.95
+Sumatera Barat,2004,37358645.93
+Sumatera Barat,2005,44674569.24
+Sumatera Barat,2006,53029588.1
+Sumatera Barat,2007,59799045.3
+Sumatera Barat,2008,70954515.42
+Sumatera Barat,2009,76752937.71
+Sumatera Barat,2010,87221253.05
+Sumatera Barat,2011,98957265.63
+Sumatera Selatan,2000,27983455
+Sumatera Selatan,2001,31960051
+Sumatera Selatan,2002,35773989
+Sumatera Selatan,2003,40113615
+Sumatera Selatan,2004,45470766
+Sumatera Selatan,2005,52726675
+Sumatera Selatan,2006,63500068
+Sumatera Selatan,2007,74905270
+Sumatera Selatan,2008,89100922
+Sumatera Selatan,2009,98907507
+Sumatera Selatan,2010,112449335
+Sumatera Selatan,2011,134959265.6
+Sumatera Utara,2000,10691716.23
+Sumatera Utara,2001,11782985.85
+Sumatera Utara,2002,13057807.2
+Sumatera Utara,2003,14140474.88
+Sumatera Utara,2004,15705710.35
+Sumatera Utara,2005,18744519.11
+Sumatera Utara,2006,21190040.41
+Sumatera Utara,2007,24052135.77
+Sumatera Utara,2008,28664315.54
+Sumatera Utara,2009,32993081.62
+Sumatera Utara,2010,36793036.3
+Sumatera Utara,2011,41785855.47
