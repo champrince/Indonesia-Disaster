@@ -39,3 +39,33 @@ Indonesia_GDP$treat<-ifelse(Indonesia_GDP$Year>=2009 & Indonesia_GDP$Province=="
 pan<-panel.matrices(panel = Indonesia_GDP,unit = 1,time = 2,outcome = 3,treatment = 4)
 sdid_SUMBAR<-synthdid_estimate(pan$Y,pan$N0,pan$T0)
 plot(sdid_SUMBAR)
+
+#################################################################
+Service_Manufacture <- read_excel("Data/Service & Manufacture.xlsx")
+Service_Manufacture<-as.data.frame(Service_Manufacture)
+
+Service_Manufacture$Province<-factor(Service_Manufacture$Province)
+####
+run_SDID<-select(Service_Manufacture,Province,YEAR,Service)
+run_SDID$treat<-ifelse(run_SDID$YEAR>=2004&run_SDID$Province=="Nanggroe Aceh Darussalam",1,0)
+
+run_SDID$Province<-factor(run_SDID$Province)
+run_SDID$YEAR<-as.numeric(run_SDID$YEAR)
+
+pan<-panel.matrices(panel = run_SDID,unit = 1,time = 2,outcome = 3,treatment = 4)
+
+sdid_ACEH<-synthdid_estimate(pan$Y,pan$N0,pan$T0)
+plot(sdid_ACEH)
+
+###############################################################$
+run_SDID<-select(Service_Manufacture,Province,YEAR,Manufacture)
+run_SDID$treat<-ifelse(run_SDID$YEAR>=2004&run_SDID$Province=="Nanggroe Aceh Darussalam",1,0)
+
+run_SDID$Province<-factor(run_SDID$Province)
+run_SDID$YEAR<-as.integer(run_SDID$YEAR)
+
+pan<-panel.matrices(panel = run_SDID,unit = 1,time = 2,outcome = 3,treatment = 4)
+
+sdid_ACEH<-synthdid_estimate(pan$Y,pan$N0,pan$T0)
+plot(sdid_ACEH)
+

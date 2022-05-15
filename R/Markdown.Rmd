@@ -1,0 +1,31 @@
+```{r Library}
+library(readr)
+library(synthdid)
+library(dplyr)
+```
+```{r Data}
+Indonesia_GDP <- read_csv("Data/Indonesia GDP.csv")
+
+Indonesia_GDP<-as.data.frame(Indonesia_GDP)
+Indonesia_GDP$Province<-factor(Indonesia_GDP$Province)
+
+Service_Manufacture <- read_excel("Data/Service & Manufacture.xlsx")
+Service_Manufacture<-as.data.frame(Service_Manufacture)
+Service_Manufacture$Province<-factor(Service_Manufacture$Province)
+
+```
+
+
+```{r GDP ACEH}
+Indonesia_GDP$treat<-ifelse(Indonesia_GDP$Year>=2004 & Indonesia_GDP$Province=="Nanggroe Aceh Darussalam",1,0)
+
+pan<-panel.matrices(panel = Indonesia_GDP,unit = 1,time = 2,outcome = 3,treatment = 4)
+sdid_ACEH<-synthdid_estimate(pan$Y,pan$N0,pan$T0)
+plot(sdid_ACEH)
+
+```
+```{r Aceh Manufacture}
+
+```
+
+
