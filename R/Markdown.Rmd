@@ -1,3 +1,9 @@
+---
+title: "Untitled"
+output: html_document
+date: '2022-05-17'
+---
+
 ```{r Library}
 library(readr)
 library(synthdid)
@@ -17,7 +23,7 @@ Service_Manufacture$Province<-factor(Service_Manufacture$Province)
 ```
 
 
-```{r GDP ACEH}
+```{r GDP ACEH,warning=FALSE}
 Indonesia_GDP$treat<-ifelse(Indonesia_GDP$Year>=2004 & Indonesia_GDP$Province=="Nanggroe Aceh Darussalam",1,0)
 
 pan<-panel.matrices(panel = Indonesia_GDP,unit = 1,time = 2,outcome = 3,treatment = 4)
@@ -27,7 +33,7 @@ plot(sdid_ACEH)
 ```
 
 
-```{r Aceh Service}
+```{r Aceh Service,warning=FALSE}
 run_SDID<-select(Service_Manufacture,Province,YEAR,Service)
 run_SDID$treat<-ifelse(run_SDID$YEAR>=2004&run_SDID$Province=="Nanggroe Aceh Darussalam",1,0)
 
@@ -39,7 +45,7 @@ pan<-panel.matrices(panel = run_SDID,unit = 1,time = 2,outcome = 3,treatment = 4
 sdid_ACEH<-synthdid_estimate(pan$Y,pan$N0,pan$T0)
 plot(sdid_ACEH)
 ```
-```{r Manufacture}
+```{r Manufacture,warning=FALSE}
 run_SDID<-select(Service_Manufacture,Province,YEAR,Manufacture)
 run_SDID$treat<-ifelse(run_SDID$YEAR>=2004&run_SDID$Province=="Nanggroe Aceh Darussalam",1,0)
 
